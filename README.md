@@ -11,13 +11,10 @@
 <ol>
     <li>Clone o repositório em sua máquina local:</li>
     <pre><code>git clone https://github.com/seu-usuario/seu-projeto.git</code></pre>
-
     <li>Compile os arquivos Java:</li>
     <pre><code>javac Series.java Vetor.java</code></pre>
-
     <li>Execute o programa principal:</li>
     <pre><code>java Series</code></pre>
-
     <li>O programa oferecerá um menu interativo onde você pode adicionar, avaliar, buscar e remover séries.</li>
 </ol>
 
@@ -43,8 +40,6 @@
     <li>Remover séries do sistema.</li>
     <li>Visualizar todas as séries cadastradas.</li>
 </ul>
-
-##
 
 <h2>Contribuição</h2>
 
