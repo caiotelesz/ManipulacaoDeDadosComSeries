@@ -10,7 +10,7 @@
 
 <ol>
     <li>Clone o repositório em sua máquina local:</li>
-    <pre><code>git clone https://github.com/seu-usuario/seu-projeto.git</code></pre>
+    <pre><code>git clone https://github.com/caiotelesz/ManipulacaoDeDadosComSeries.git</code></pre>
     <li>Compile os arquivos Java:</li>
     <pre><code>javac Series.java Vetor.java</code></pre>
     <li>Execute o programa principal:</li>
