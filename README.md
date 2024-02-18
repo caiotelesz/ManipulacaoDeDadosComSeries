@@ -41,10 +41,6 @@
     <li>Visualizar todas as séries cadastradas.</li>
 </ul>
 
-<h2>Contribuição</h2>
-
-<p>Se você deseja contribuir para este projeto, sinta-se à vontade para criar um fork do repositório, fazer as alterações necessárias e enviar um pull request.</p>
-
 <h2>Autor</h2>
 
 <p>Caio Teles</p>
